@@ -1,0 +1,4 @@
+/* miniprogram/pages/home/home.wxss */
+.title {
+  color: red;
+}
